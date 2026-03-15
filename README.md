@@ -4,10 +4,6 @@
 
 [Live Preview](https://rainyroof.vercel.app/)
 
-Don't forget to :star: the repo if you like it :blush:
-
-
-
 <br>
 
 ![img 1](img/1.png)
